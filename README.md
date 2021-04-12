@@ -1,4 +1,4 @@
-# Autonomous_drone_simulation_in_ROS
+
 ## Autonomous Drone Simulation in ROS
 
 This package was developed for Eyantra Competition
